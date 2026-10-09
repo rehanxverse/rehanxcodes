@@ -12,6 +12,4 @@ int main()
   printf("%d %d\n",a+b,a-b);
   printf("%.1f %.1f",c+d,c-d);
     return 0;
-    
-    return 0;
 }
